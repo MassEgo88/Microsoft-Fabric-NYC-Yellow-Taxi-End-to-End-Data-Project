@@ -1,6 +1,6 @@
 # Microsoft-Fabric-NYC-Yellow-Taxi-End-to-End-Data-Project
 
-###NYC Taxi Demand Forecasting & Data Engineering Pipeline
+###  NYC Taxi Demand Forecasting & Data Engineering Pipeline
 
 An enterprise-grade, end-to-end data engineering pipeline built on Microsoft Fabric to ingest, clean, transform, and analyze millions of NYC Yellow Taxi trip records. This project transitions raw transit files through a structured Medallion Architecture into an interactive reporting suite.
 
