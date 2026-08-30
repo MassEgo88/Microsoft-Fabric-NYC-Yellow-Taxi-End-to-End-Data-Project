@@ -4,7 +4,7 @@
 
 An enterprise-grade, end-to-end data engineering pipeline built on Microsoft Fabric to ingest, clean, transform, and analyze millions of NYC Yellow Taxi trip records. This project transitions raw transit files through a structured Medallion Architecture into an interactive reporting suite.
 
-🔗 Live Analytics Dashboard: data-stagecoach.lovable.app
+🔗 Live Analytics Dashboard: (https://nyc-yellow-taxi.lovable.app)
 🏗️ Architecture & Pipeline Overview
 
 The project implements a fully automated, metadata-driven architecture across five distinct data layers:
